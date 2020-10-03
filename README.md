@@ -14,4 +14,4 @@ You can also run all test set from the folder.
 To execute this from the Pycarm IDE you'll need to install pytest package (Settings/Project:Xeneta/Python Interpreter/+/Search for pytest/Install Package.) 
 Right-click on the folder 'Test1' and Run 'Unittests in Test1'.
 
-Pycharm installation files for Mac and wor Windows are also attached (in case if it is needed).
+Pycharm installation files for Mac and wor Windows unfortunatelly are too big and I cannot attach them here. But they are in the folder on Google drive (in case if you need to install Pycharm).
